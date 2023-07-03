@@ -1,5 +1,5 @@
 ## 🙌🏽 Hi, Rajat here
-- 🌱 I’m currently learning Flutter.
+- 🌱 I’m currently messing with Flutter.
 - ⚡ Fun fact: Coding Bugs were NOT named after an actual bug.
 - 📫 How to reach me: es.rajatyadav@gmail.com
 
