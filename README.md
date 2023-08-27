@@ -3,7 +3,7 @@
 - ⚡ Fun fact: Coding Bugs were NOT named after an actual bug.
 - 📫 How to reach me: es.rajatyadav@gmail.com
 
-![Rajat's GitHub stats](https://github-readme-stats.vercel.app/api?username=es-rajatyadav&show_icons=true&theme=codeSTACKr&rank_icon=github)
+![Rajat's GitHub stats](https://github-readme-stats.vercel.app/api?username=laggedskapari&show_icons=true&theme=codeSTACKr&rank_icon=github)
 
 
 
